@@ -3,7 +3,7 @@ Metodologia da Pesquisa Científico Tecnológica - 4º semestre BD 2020 - Fatec 
 
 ---
 
-###Contador de clientes
+###Contador de clientes###
 
 **Problema:**
 Falta ou ineficácia no controle do número de clientes em lojas durante a pandemia.
@@ -17,7 +17,7 @@ A quantidade máxima de clientes poderá ser configurada no protótipo, de forma
 
 ---
 
-###Alerta de Poluição Sonora
+###Alerta de Poluição Sonora###
 
 **Problema:**
 Falta de consciência de pessoas que produzem poluição sonora em locais ou horários proibidos.
